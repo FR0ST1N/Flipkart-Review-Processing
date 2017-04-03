@@ -1,4 +1,4 @@
-# Flipkart Review Processing [Unmainted]
+# Flipkart Review Processing [UNMAINTAINED]
 
 Flipkart Review Processing using Sentiment Analysis.
 
