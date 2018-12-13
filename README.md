@@ -2,7 +2,7 @@
 
 Flipkart Review Processing using Sentiment Analysis.
 
-## Plugins Used
+## Packages Used
 
 ### BeautifulSoup
 
